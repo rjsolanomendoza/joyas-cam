@@ -322,7 +322,7 @@ body {
     background: var(--primary-dark);
 }
 
-/* Modal */
+
 .modal {
     position: fixed;
     inset: 0;
