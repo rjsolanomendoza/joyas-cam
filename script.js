@@ -12,7 +12,7 @@ const initialProducts = [
     {
         id: 1,
         name: "corazon del Zocalo",
-        price: 2500000,
+        price: 750000,
         category: 'anillos',
         image: "https://i.imgur.com/kut330D.jpeg",
         description: 'Inspirado en el centro ceremonial y corazón de la cultura Muisca, con el cuarzo representando su claridad espiritual y los zafiros el brillo de las lagunas sagradas.'
@@ -21,7 +21,7 @@ const initialProducts = [
     {
         id: 2,
         name: 'set Daba',
-        price: 890000,
+        price: 320000,
         category: 'sets',
         image: 'https://i.imgur.com/lGQmIII.jpg',
         description: 'De la cultura zenú, Significa "Tierra". Ideal para la conexión del oro con los elementos y el fondo verde.'
@@ -29,7 +29,7 @@ const initialProducts = [
     {
         id: 3,
         name: 'set uli',
-        price: 1200000,
+        price: 380000,
         category: 'sets',
         image: 'https://i.imgur.com/JummJmL.jpeg',
         description: 'Palabra de la cultura Emberá, Significa "Arcilla". Ideal para el color rojizo-marrón de las cuentas y el tono terroso de la imagen.'
@@ -37,7 +37,7 @@ const initialProducts = [
     {
         id: 4,
         name: 'Sello de los Guardianes',
-        price: 650000,
+        price: 250000,
         category: 'collares',
         image: 'https://i.imgur.com/zAcldCI.jpeg',
         description: 'Hace alusión a los Talismanes y la conexión con seres superiores/protectores, muy presente en la cosmovisión indígena que buscaba protección y equilibrio.'
@@ -45,7 +45,7 @@ const initialProducts = [
     {
         id: 5,
         name: 'Orejas del Cacique',
-        price: 450000,
+        price: 120000,
         category: 'aretes',
         image: "https://i.imgur.com/KpibyP1.jpeg",
         description: 'Inspirado en los grandes ornamentes de oro o tumbaga usados por los líderes (Caciques) y la nobleza, que simbolizaban poder, estatus y conexión con lo divino.'
@@ -53,7 +53,7 @@ const initialProducts = [
     {
         id: 6,
         name: "Anillo pashaka ",
-        price: 580000,
+        price: 180000,
         category: 'anillos',
         image: 'https://i.imgur.com/rCNNJTF.jpeg',
         description: 'Palabra de la cultura muisca, Nombre dado al "Señor de las Esmeraldas" o al "Rey de las Piedras Preciosas" en la región de Muzo.'
@@ -62,7 +62,7 @@ const initialProducts = [
      {
         id: 7,
         name: "Nahual del Sinú",
-        price:  560000,
+        price:  190000,
         category: 'collares',
         image: 'https://i.imgur.com/IBAJDTE.jpeg',
         description: 'Se refiere al concepto del Nahual o el espíritu protector animal (como el Jaguar, emblema de fuerza), un tema central en culturas como la Tumaco-La Tolita o Quimbaya.'
@@ -71,7 +71,7 @@ const initialProducts = [
     {
         id:  8,
         name: "Pulsera Yaku",
-        price:  380000,
+        price:  110000,
         category: 'pulseras',
         image: 'https://i.imgur.com/TWYrt7X.jpeg',
         description: 'Es una palabra de origen Quechua (presente en influencias andinas) que significa "agua". Los ríos y lagunas son centrales en muchas cosmovisiones indígenas.'
@@ -80,7 +80,7 @@ const initialProducts = [
     {
         id:  9,
         name: "Ofrenda de los dioses ",
-        price:  450000,
+        price:  130000,
         category: 'pulseras',
         image: 'https://i.imgur.com/FX7o2vX.jpeg',
         description: 'Inspirado en las pequeñas ofrendas (como figuras de Sol o Tunjos)'
@@ -89,7 +89,7 @@ const initialProducts = [
     {
         id:  10,
         name: "Pulsera tayrona ",
-        price:  60000,
+        price:  45000,
         category: 'pulseras',
         image: 'https://i.imgur.com/PUvdXLC.jpeg',
         description: 'Nombre de la antigua civilización y del parque nacional tayrona, que representa la riqueza natural y cultural de la Sierra Nevada.'
@@ -98,7 +98,7 @@ const initialProducts = [
     {
         id:  11,
         name: "Collar Caracolí ",
-        price:  70000,
+        price:  55000,
         category: 'collares',
         image: 'https://i.imgur.com/NUOG72q.jpeg',
         description: 'Nombre que evoca el caracol, cuya forma espiral es un patrón muy común y simbólico en el arte precolombino'
@@ -107,7 +107,7 @@ const initialProducts = [
     {
         id:  12,
         name: "Collar Guatavita",
-        price:  334000,
+        price:  160000,
         category: 'collares',
         image: 'https://i.imgur.com/pKSkadK.jpeg',
         description: 'Nombre de la laguna sagrada donde la cultura Muisca realizaba las ceremonias del Dorado, ofrendando oro.'
@@ -116,15 +116,15 @@ const initialProducts = [
     {
         id:  13,
         name: "Collar Jaba ",
-        price:  780000,
+        price:  280000,
         category: "collares",
         image:"https://i.imgur.com/54UL5oP.jpeg",
         description: 'En la lengua Wayuu, significa "camino" o sendero.'
     },
     {
-        id:  13,
+        id:  25,
         name: "El Cacicazgo Dorado",
-        price:  780000,
+        price:  300000,
         category: "collares",
         image:"https://i.imgur.com/Y1hep0x.jpeg",
         description: 'La cultura Muisca utilizaba mucho el oro y representaciones de la vida cíclica y la fertilidad.'
@@ -132,7 +132,7 @@ const initialProducts = [
     {
         id:  14,
         name: "Tunjito solar",
-        price:  780000,
+        price:  280000,
         category: "collares",
         image:"https://i.imgur.com/KtnWwTn.jpeg",
         description: 'Inspirada en tunjo, que es el nombre popular que se le da a las pequeñas figuras votivas de oro o tumbaga creadas por las culturas precolombinas, especialmente la Muisca. Estas figuras eran ofrendas a los dioses.'
@@ -140,7 +140,7 @@ const initialProducts = [
     {
         id:  15,
         name: "Cacique del Oro",
-        price:  780000,
+        price:  300000,
         category: "collares",
         image:"https://i.imgur.com/p712RoO.jpeg",
         description: 'Un cacique era el jefe o dignatario. Este nombre resalta el estatus de la figura, que usaría este oro como insignia de poder.'
@@ -148,7 +148,7 @@ const initialProducts = [
     {
         id:  16,
         name: "set Huriya",
-        price:  780000,
+        price:  320000,
         category: "sets",
         image:"https://i.imgur.com/qKYAzln.jpeg",
         description: 'Es una palabra wayuu, Significa "Oro" o "Tesoro". Alude al metal precioso del pendiente y el brazalete.'
@@ -156,7 +156,7 @@ const initialProducts = [
     {
         id:  17,
         name: "Brazalete kareo ",
-        price:  780000,
+        price:  150000,
         category: "pulseras",
         image:"https://i.imgur.com/1reIYW6.jpeg",
         description: 'En la lengua Sinu, podría relacionarse con el trabajo del metal o la fuerza. Simboliza el brazalete ancho y robusto.'
@@ -164,7 +164,7 @@ const initialProducts = [
     {
         id:  18,
         name: "Kankuamo",
-        price:  780000,
+        price:  130000,
         category: "pulseras",
         image:"https://i.imgur.com/pjZqOCE.jpeg",
         description: 'La espiral es un símbolo recurrente en el arte del pueblo Senú/Zenú. Este nombre rinde homenaje a la región y su arte.'
@@ -172,7 +172,7 @@ const initialProducts = [
     {
         id:  19,
         name: "Set kankuamo",
-        price:  780000,
+        price:  320000,
         category: "sets",
         image: "https://i.imgur.com/iP082q9.jpeg",
         description: ''
@@ -180,7 +180,7 @@ const initialProducts = [
     {
         id:  20,
         name: "Set Daire",
-        price:  780000,
+        price:  350000,
         category: "sets",
         image:"https://i.imgur.com/xJHgX84.jpeg",
         description: 'Palabra wayuu, Significa "Luz de Sol" o "Radiante". Ideal para el color dorado y el diseño que irradia desde el centro.'
@@ -189,7 +189,7 @@ const initialProducts = [
      {
         id:  21,
         name: "Aretes Nari ",
-        price:  780000,
+        price:  80000,
         category: "aretes",
         image:"https://i.imgur.com/0hZngZw.jpeg",
         description: 'Un diminutivo de nariguera, la joya ancestral más emblemática de la orfebrería precolombina.'
@@ -197,7 +197,7 @@ const initialProducts = [
      {
         id:  22,
         name: "Aretes Sua",
-        price:  780000,
+        price:  90000,
         category: "aretes",
         image:"https://i.imgur.com/pdCI4Gn.jpeg",
         description: 'Palabra muisca, donde se utiliza para una variación de las palabras "Sol" o "Astro Rey". Simboliza energía, oro y vida.'
@@ -205,7 +205,7 @@ const initialProducts = [
      {
         id:  23,
         name: "Aretes Siatá",
-        price:  780000,
+        price:  90000,
         category: "aretes",
         image:"https://i.imgur.com/RT2Yr0a.jpeg",
         description: 'Palabra muisca, Significa "Tierra de la Luna". El calendario Muisca estaba basado en ciclos lunares, simbolizando el tiempo circular.'
@@ -213,7 +213,7 @@ const initialProducts = [
      {
         id:  24,
         name: "Aretes esenúa",
-        price:  780000,
+        price:  95000,
         category: "aretes",
         image:"https://i.imgur.com/88DeQ7i.jpeg",
         description: 'Significa "Estrella del Cielo". El sol es la estrella principal y parece colgar del cielo.'
