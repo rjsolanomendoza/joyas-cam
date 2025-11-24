@@ -32,7 +32,7 @@ const initialProducts = [
         price: 1200000,
         category: 'aretes',
         image: 'https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=500',
-        description: 'Aretes en oro amarillo con esmeraldas naturales'
+        description: 'Palabra de la cultura Emberá, Significa "Arcilla". Ideal para el color rojizo-marrón de las cuentas y el tono terroso de la imagen.'
     },
     {
         id: 4,
