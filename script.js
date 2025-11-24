@@ -123,53 +123,101 @@ const initialProducts = [
     },
     {
         id:  13,
-        name: "",
+        name: "El Cacicazgo Dorado",
         price:  780000,
-        category: "",
-        image:"",
+        category: "collares",
+        image:"https://i.imgur.com/Y1hep0x.jpeg",
+        description: 'La cultura Muisca utilizaba mucho el oro y representaciones de la vida cíclica y la fertilidad.'
+    },
+    {
+        id:  14,
+        name: "Tunjito solar",
+        price:  780000,
+        category: "collares",
+        image:"https://i.imgur.com/KtnWwTn.jpeg",
+        description: 'Inspirada en tunjo, que es el nombre popular que se le da a las pequeñas figuras votivas de oro o tumbaga creadas por las culturas precolombinas, especialmente la Muisca. Estas figuras eran ofrendas a los dioses.'
+    },
+    {
+        id:  15,
+        name: "Cacique del Oro",
+        price:  780000,
+        category: "collares",
+        image:"https://i.imgur.com/p712RoO.jpeg",
+        description: 'Un cacique era el jefe o dignatario. Este nombre resalta el estatus de la figura, que usaría este oro como insignia de poder.'
+    },
+    {
+        id:  16,
+        name: "set Huriya",
+        price:  780000,
+        category: "sets",
+        image:"https://i.imgur.com/qKYAzln.jpeg",
+        description: 'Es una palabra wayuu, Significa "Oro" o "Tesoro". Alude al metal precioso del pendiente y el brazalete.'
+    },
+    {
+        id:  17,
+        name: "Brazalete kareo ",
+        price:  780000,
+        category: "pulseras",
+        image:"https://i.imgur.com/1reIYW6.jpeg",
+        description: 'En la lengua Sinu, podría relacionarse con el trabajo del metal o la fuerza. Simboliza el brazalete ancho y robusto.'
+    },
+    {
+        id:  18,
+        name: "Kankuamo",
+        price:  780000,
+        category: "pulseras",
+        image:"https://i.imgur.com/pjZqOCE.jpeg",
+        description: 'La espiral es un símbolo recurrente en el arte del pueblo Senú/Zenú. Este nombre rinde homenaje a la región y su arte.'
+    },
+    {
+        id:  19,
+        name: "Set kankuamo",
+        price:  780000,
+        category: "sets",
+        image: "https://i.imgur.com/iP082q9.jpeg",
         description: ''
     },
     {
-        id:  13,
-        name: "",
+        id:  20,
+        name: "Set Daire",
         price:  780000,
-        category: "",
-        image:"",
-        description: ''
-    },
-    {
-        id:  13,
-        name: "",
-        price:  780000,
-        category: "",
-        image:"",
-        description: ''
-    },
-    {
-        id:  13,
-        name: "",
-        price:  780000,
-        category: "",
-        image:"",
-        description: ''
-    },
-    {
-        id:  13,
-        name: "",
-        price:  780000,
-        category: "",
-        image:"",
-        description: ''
-    },
-    {
-        id:  13,
-        name: "",
-        price:  780000,
-        category: "",
-        image:"",
-        description: ''
+        category: "sets",
+        image:"https://i.imgur.com/xJHgX84.jpeg",
+        description: 'Palabra wayuu, Significa "Luz de Sol" o "Radiante". Ideal para el color dorado y el diseño que irradia desde el centro.'
     },
 
+     {
+        id:  21,
+        name: "Aretes Nari ",
+        price:  780000,
+        category: "aretes",
+        image:"https://i.imgur.com/0hZngZw.jpeg",
+        description: 'Un diminutivo de nariguera, la joya ancestral más emblemática de la orfebrería precolombina.'
+    },
+     {
+        id:  22,
+        name: "Aretes Sua",
+        price:  780000,
+        category: "aretes",
+        image:"https://i.imgur.com/pdCI4Gn.jpeg",
+        description: 'Palabra muisca, donde se utiliza para una variación de las palabras "Sol" o "Astro Rey". Simboliza energía, oro y vida.'
+    },
+     {
+        id:  23,
+        name: "Aretes Siatá",
+        price:  780000,
+        category: "aretes",
+        image:"https://i.imgur.com/RT2Yr0a.jpeg",
+        description: 'Palabra muisca, Significa "Tierra de la Luna". El calendario Muisca estaba basado en ciclos lunares, simbolizando el tiempo circular.'
+    },
+     {
+        id:  24,
+        name: "Aretes esenúa",
+        price:  780000,
+        category: "aretes",
+        image:"https://i.imgur.com/88DeQ7i.jpeg",
+        description: 'Significa "Estrella del Cielo". El sol es la estrella principal y parece colgar del cielo.'
+     }  
 ];
 // INICIALIZACIÓN
 
