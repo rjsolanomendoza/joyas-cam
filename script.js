@@ -14,7 +14,7 @@ const initialProducts = [
         name: "corazon del Zocalo",
         price: 2500000,
         category: 'anillos',
-        image: "./joyas-cam/imagenes/corazon_zocalo.jpeg",
+        image: "../JOYAS-CAM/imagenes/corazon_zocalo.jpeg",
         description: 'Inspirado en el centro ceremonial y corazón de la cultura Muisca, con el cuarzo representando su claridad espiritual y los zafiros el brillo de las lagunas sagradas.'
 
     },
@@ -23,7 +23,7 @@ const initialProducts = [
         name: 'set Daba',
         price: 890000,
         category: 'sets',
-        image: '../joyas-cam/imagenes/set_daba.jpeg',
+        image: '../JOYAS-CAM/imagenes/set_Daba.jpeg',
         description: 'De la cultura zenú, Significa "Tierra". Ideal para la conexión del oro con los elementos y el fondo verde.'
     },
     {
