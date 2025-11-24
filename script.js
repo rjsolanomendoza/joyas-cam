@@ -36,23 +36,141 @@ const initialProducts = [
     },
     {
         id: 4,
-        name: 'Pulsera Oro Rosa',
+        name: 'Sello de los Guardianes',
         price: 650000,
-        category: 'pulseras',
-        image: 'https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=500',
-        description: 'Pulsera minimalista en oro rosa 14k'
+        category: 'collares',
+        image: 'https://i.imgur.com/zAcldCI.jpeg',
+        description: 'Hace alusión a los Talismanes y la conexión con seres superiores/protectores, muy presente en la cosmovisión indígena que buscaba protección y equilibrio.'
+    },
+    {
+        id: 5,
+        name: 'Orejas del Cacique',
+        price: 450000,
+        category: 'aretes',
+        image: "https://i.imgur.com/KpibyP1.jpeg",
+        description: 'Inspirado en los grandes ornamentes de oro o tumbaga usados por los líderes (Caciques) y la nobleza, que simbolizaban poder, estatus y conexión con lo divino.'
     },
     {
         id: 6,
-        name: 'Collar Cadena Oro',
-        price: 450000,
+        name: "Anillo pashaka ",
+        price: 580000,
+        category: 'anillos',
+        image: 'https://i.imgur.com/rCNNJTF.jpeg',
+        description: 'Palabra de la cultura muisca, Nombre dado al "Señor de las Esmeraldas" o al "Rey de las Piedras Preciosas" en la región de Muzo.'
+
+    },
+     {
+        id: 7,
+        name: "Nahual del Sinú",
+        price:  560000,
         category: 'collares',
-        image: 'https://images.unsplash.com/photo-1506630448388-4e683c67ddb0?w=500',
-        description: 'Cadena clásica en oro amarillo 18k'
-    }
+        image: 'https://i.imgur.com/IBAJDTE.jpeg',
+        description: 'Se refiere al concepto del Nahual o el espíritu protector animal (como el Jaguar, emblema de fuerza), un tema central en culturas como la Tumaco-La Tolita o Quimbaya.'
+
+    },
+    {
+        id:  8,
+        name: "Pulsera Yaku",
+        price:  380000,
+        category: 'pulseras',
+        image: 'https://i.imgur.com/TWYrt7X.jpeg',
+        description: 'Es una palabra de origen Quechua (presente en influencias andinas) que significa "agua". Los ríos y lagunas son centrales en muchas cosmovisiones indígenas.'
+
+    },
+    {
+        id:  9,
+        name: "Ofrenda de los dioses ",
+        price:  450000,
+        category: 'pulseras',
+        image: 'https://i.imgur.com/FX7o2vX.jpeg',
+        description: 'Inspirado en las pequeñas ofrendas (como figuras de Sol o Tunjos)'
+
+    },
+    {
+        id:  10,
+        name: "Pulsera tayrona ",
+        price:  60000,
+        category: 'pulseras',
+        image: 'https://i.imgur.com/PUvdXLC.jpeg',
+        description: 'Nombre de la antigua civilización y del parque nacional tayrona, que representa la riqueza natural y cultural de la Sierra Nevada.'
+
+    },
+    {
+        id:  11,
+        name: "Collar Caracolí ",
+        price:  70000,
+        category: 'collares',
+        image: 'https://i.imgur.com/NUOG72q.jpeg',
+        description: 'Nombre que evoca el caracol, cuya forma espiral es un patrón muy común y simbólico en el arte precolombino'
+
+    },
+    {
+        id:  12,
+        name: "Collar Guatavita",
+        price:  334000,
+        category: 'collares',
+        image: 'https://i.imgur.com/pKSkadK.jpeg',
+        description: 'Nombre de la laguna sagrada donde la cultura Muisca realizaba las ceremonias del Dorado, ofrendando oro.'
+
+    },
+    {
+        id:  13,
+        name: "Collar Jaba ",
+        price:  780000,
+        category: "collares",
+        image:"https://i.imgur.com/54UL5oP.jpeg",
+        description: 'En la lengua Wayuu, significa "camino" o sendero.'
+    },
+    {
+        id:  13,
+        name: "",
+        price:  780000,
+        category: "",
+        image:"",
+        description: ''
+    },
+    {
+        id:  13,
+        name: "",
+        price:  780000,
+        category: "",
+        image:"",
+        description: ''
+    },
+    {
+        id:  13,
+        name: "",
+        price:  780000,
+        category: "",
+        image:"",
+        description: ''
+    },
+    {
+        id:  13,
+        name: "",
+        price:  780000,
+        category: "",
+        image:"",
+        description: ''
+    },
+    {
+        id:  13,
+        name: "",
+        price:  780000,
+        category: "",
+        image:"",
+        description: ''
+    },
+    {
+        id:  13,
+        name: "",
+        price:  780000,
+        category: "",
+        image:"",
+        description: ''
+    },
+
 ];
-
-
 // INICIALIZACIÓN
 
 document.addEventListener('DOMContentLoaded', function() {
