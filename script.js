@@ -14,7 +14,7 @@ const initialProducts = [
         name: "corazon del Zocalo",
         price: 2500000,
         category: 'anillos',
-        image: "../J/imagenes/corazon_zocalo.jpeg",
+        image: "../JOYAS-CAM/imagenes/corazon_zocalo.jpeg",
         description: 'Inspirado en el centro ceremonial y corazón de la cultura Muisca, con el cuarzo representando su claridad espiritual y los zafiros el brillo de las lagunas sagradas.'
 
     },
