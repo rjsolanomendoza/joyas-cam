@@ -23,7 +23,7 @@ const initialProducts = [
         name: 'set Daba',
         price: 890000,
         category: 'sets',
-        image: 'https://i.imgur.com/lGQmIII_d.webp?maxwidth=128&shape=square.jpg&fidelity=high',
+        image: 'https://i.imgur.com/lGQmIII.jpg',
         description: 'De la cultura zenú, Significa "Tierra". Ideal para la conexión del oro con los elementos y el fondo verde.'
     },
     {
