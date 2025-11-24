@@ -31,7 +31,7 @@ const initialProducts = [
         name: 'set uli',
         price: 1200000,
         category: 'sets',
-        image: 'https://i.imgur.com/lGQmIII.jpg',
+        image: 'https://i.imgur.com/JummJmL.jpeg',
         description: 'Palabra de la cultura Emberá, Significa "Arcilla". Ideal para el color rojizo-marrón de las cuentas y el tono terroso de la imagen.'
     },
     {
